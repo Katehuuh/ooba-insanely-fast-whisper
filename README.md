@@ -1,2 +1,4 @@
-# ooba-insanely-fast-whisper
-streaming insanely fast whisper extension for text-generation-webui
+Install
+`pip install insanely-fast-whisper --force --pip-args="--ignore-requires-python" soundfile keyboard`
+
+To 'Generate' it send `enter` key press for now.
